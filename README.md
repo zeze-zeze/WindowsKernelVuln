@@ -10,3 +10,4 @@
 * [CVE-2023-1187: Webcam for Remote Desktop, ftwebcam.sys, DoS](CVE-2023-1187)
 * [CVE-2023-1188: Webcam for Remote Desktop, ftwebcam.sys, DoS](CVE-2023-1188)
 * [CVE-2023-1189: Wise Folder Hider, WiseFs64.sys, DoS](CVE-2023-1189)
+* [CVE-2023-1369: Vir.IT eXplorer, VIRAGTLT.sys, DoS](CVE-2023-1369)
