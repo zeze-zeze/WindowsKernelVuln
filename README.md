@@ -11,3 +11,8 @@
 * [CVE-2023-1188: Webcam for Remote Desktop, ftwebcam.sys, DoS](CVE-2023-1188)
 * [CVE-2023-1189: Wise Folder Hider, WiseFs64.sys, DoS](CVE-2023-1189)
 * [CVE-2023-1369: Vir.IT eXplorer, VIRAGTLT.sys, DoS](CVE-2023-1369)
+* [CVE-2023-1443: Twister Antivirus, fildds.sys, DoS1](CVE-2023-1443)
+* [CVE-2023-1444: Twister Antivirus, fildds.sys, DoS2](CVE-2023-1444)
+* [CVE-2023-1445: Twister Antivirus, fildds.sys, Terminate Arbitrary Process](CVE-2023-1445)
+* [CVE-2023-1446: Watchdog Anti-Virus, wsdk-driver.sys, DoS](CVE-2023-1446)
+* [CVE-2023-1453: Watchdog Anti-Virus, wsdk-driver.sys, Delete File](CVE-2023-1453)
