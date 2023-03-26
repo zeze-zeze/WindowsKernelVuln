@@ -24,3 +24,6 @@
 * [CVE-2023-1491: Max Secure Anti Virus Plus, MaxCryptMon.sys, Arbitrary Copy File](CVE-2023-1491)
 * [CVE-2023-1492: Max Secure Anti Virus Plus, MaxProc64.sys, DoS](CVE-2023-1492)
 * [CVE-2023-1493: Max Secure Anti Virus Plus, MaxProctetor64.sys, DoS](CVE-2023-1493)
+* [CVE-2023-1629: JiangMin Antivirus, kvcore.sys, Memory Corruption](CVE-2023-1629)
+* [CVE-2023-1630: JiangMin Antivirus, kvcore.sys, DoS](CVE-2023-1630)
+* [CVE-2023-1631: JiangMin Antivirus, kvcore.sys, DoS](CVE-2023-1631)
