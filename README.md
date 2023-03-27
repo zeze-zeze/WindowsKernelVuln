@@ -35,4 +35,4 @@
 * [CVE-2023-1643: IObit Malware Fighter, ImfHpRegFilter.sys, DoS](CVE-2023-1643)
 * [CVE-2023-1644: IObit Malware Fighter, IMFCameraProtect.sys, DoS](CVE-2023-1644)
 * [CVE-2023-1645: IObit Malware Fighter, IMFCameraProtect.sys, Global Buffer Overflow](CVE-2023-1645)
-* [CVE-2023-1646: IObit Malware Fighter, IMFCameraProtect.sys, DoS](CVE-2023-1646)
+* [CVE-2023-1646: IObit Malware Fighter, IMFCameraProtect.sys, LPE](CVE-2023-1646)
