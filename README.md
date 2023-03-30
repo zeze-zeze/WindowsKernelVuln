@@ -36,3 +36,7 @@
 * [CVE-2023-1644: IObit Malware Fighter, IMFCameraProtect.sys, DoS](CVE-2023-1644)
 * [CVE-2023-1645: IObit Malware Fighter, IMFCameraProtect.sys, Global Buffer Overflow](CVE-2023-1645)
 * [CVE-2023-1646: IObit Malware Fighter, IMFCameraProtect.sys, LPE](CVE-2023-1646)
+* [CVE-2023-1676: DriverGenius, mydrivers64.sys, Arbitrary Kernel Execution](CVE-2023-1676)
+* [CVE-2023-1677: DriverGenius, mydrivers64.sys, DoS](CVE-2023-1677)
+* [CVE-2023-1678: DriverGenius, mydrivers64.sys, DoS](CVE-2023-1678)
+* [CVE-2023-1679: DriverGenius, mydrivers64.sys, Read/Write Arbitrary Physical Memory](CVE-2023-1679)
